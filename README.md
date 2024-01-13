@@ -48,5 +48,6 @@ MYSQL_ROOT_PASSWORD
 ## วิธีการสร้างโฟเดอร์ใหม่่
 คุณสามารถสร้างโปรเจ็คใหม่ใน src folder 
 ```
-php/
-# ThaksinKhasaraj-php-apache-mysql-docker-template
+php/src/[your-project]
+
+```
