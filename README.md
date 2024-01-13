@@ -1,7 +1,7 @@
 # php-apache-mysql-docker
-# ref: 
-# youtube; https://www.youtube.com/watch?v=hCKoWTrXVh0&t=520s
-# github: https://github.com/ohmiler/php-apache-mysql-docker
+ref: 
+youtube: https://www.youtube.com/watch?v=hCKoWTrXVh0&t=520s
+github: https://github.com/ohmiler/php-apache-mysql-docker
 
 ## How to use 
 ```
